@@ -1,4 +1,4 @@
-# Hi there, I'm [ASPYN Song] 💚🎄🔫🍀🐍🌿🥑🐢🥝🧤🐲
+# Hi there, I'm ASPYN Song 💚🎄🔫🍀🐍🌿🥑🐢🥝🧤🐲
 
 ## About Me
 
