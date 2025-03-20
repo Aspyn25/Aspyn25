@@ -28,5 +28,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aspyn25&layout=compact&theme=radical)
 
 ## Connect with Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aspyn25)](www.linkedin.com/in/aspyn25)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aspyn25)](https://www.linkedin.com/in/aspyn25)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongfree25@gmaail.com)](mailto:jeongfree25@gmail.com)
