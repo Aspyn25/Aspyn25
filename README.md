@@ -8,7 +8,7 @@
 - 💬 Ask me about [IoT and any thing related to IT]
 - 📫 How to reach me: [jeongfree25@gmail.com]
 - 😄 Pronouns: [She]
-- ⚡ Fun fact: [I can’t drink much soju, but I can handle a lot of tequila.🤪]
+- ⚡ Fun fact: [My code is clean, and so is my closet.👗]
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
